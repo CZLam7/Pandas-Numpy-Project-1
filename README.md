@@ -8,4 +8,5 @@ A project that consists of basic application of pandas, numpy and skikit-learn k
 - Preprocessing
 - Filter data and advance search
 
-- The relevant information is in the pdf, "EODP_Assignment1.pdf" with questions listed as parts
+
+## ** The relevant information is in the pdf, "EODP_Assignment1.pdf" with questions listed as parts
